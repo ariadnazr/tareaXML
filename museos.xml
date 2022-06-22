@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<listaMuseos>
+    <museo>
+        <nombre>Museé D'Orsay</nombre>
+        <website>https://www.musee-orsay.fr/fr</website>
+        <pais>Paris, France</pais>
+        <year>1986</year>
+        <info>The Musée d'Orsay is a museum in Paris, France, on the Left Bank of the Seine. It is housed in the former Gare d'Orsay, a Beaux-Arts railway station built between 1898 and 1900. The museum holds mainly French art dating from 1848 to 1914, including paintings, sculptures, furniture, and photography.</info>
+    </museo>
+
+    <museo>
+        <nombre>Galleria Uffizi</nombre>
+        <website>https://www.uffizi.it/en/the-uffizi</website>
+        <pais>Florence, Italy</pais>
+        <year>1581</year>
+        <info>The Uffizi Gallery is a prominent art museum located adjacent to the Piazza della Signoria in the Historic Centre of Florence in the region of Tuscany, Italy.</info>
+    </museo>
+
+    <museo>
+        <nombre>MARCO</nombre>
+        <website>https://www.marco.org.mx/</website>
+        <pais>Monterrey, Mexico</pais>
+        <year>2011</year>
+        <info>Museo de Arte Contemporáneo de Monterrey, abbreviated as MARCO, is a major contemporary art museum, located in the city of Monterrey, in Nuevo León state of northeastern Mexico. MARCO organizes major exhibitions with regional and international contemporary artists</info>
+    </museo>
+
+    <museo>
+        <nombre>Museum SAN</nombre>
+        <website>http://www.museumsan.org/</website>
+        <pais>Wonju, South Korea</pais>
+        <year>2013</year>
+        <info>The Museum SAN is located in Oak Valley, in the mountains of Wonju, South Korea. It was designed by Japanese architect Tadao Ando and is under the administration of the Hansol Cultural Foundation. Ando said he designed the museum to express gratitude for the architecture and its beautiful natural environment.</info>
+    </museo>
+
+</listaMuseos>
